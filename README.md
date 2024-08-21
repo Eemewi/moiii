@@ -7,3 +7,4 @@ _koulu tehtävä_
 2. moi
 3. 13123
 4. 3123
+![image](https://github.com/user-attachments/assets/dd39bd77-9f32-4ea4-a97a-d96c3c9df5c6)
