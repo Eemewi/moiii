@@ -1,2 +1,9 @@
-# moiii
-moii
+_koulu tehtävä_
+* moi
+* moi
+* moi
+* wfewf
+1. moi
+2. moi
+3. 13123
+4. 3123
